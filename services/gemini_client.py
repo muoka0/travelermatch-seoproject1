@@ -1,3 +1,12 @@
+import os
+import json
+from google import genai
+from google.genai import types
+from prompts import INTEREST_MAPPING_PROMPT, RANKING_PROMPT
+
+
+client = genai.Client(api_key=os.environ.get("GENAI_API_KEY"))
+
 def map_interest_to_tags(user_input):
     if not user_input.strip():
         return []
@@ -16,7 +25,6 @@ def map_interest_to_tags(user_input):
     )
 
     raw_text = response.text or ""
-
     tags = []
     for tag in raw_text.split(","):
         if tag.strip():
@@ -26,7 +34,7 @@ def map_interest_to_tags(user_input):
 def rank_destinations(user_inputs, options_data):
     options_lines=[]
     for data in options_data:
-        if "error" in data or not data:
+        if not data or "error" in data:
             continue
         line = (
             f"- {data.get('city')}: "
@@ -38,7 +46,7 @@ def rank_destinations(user_inputs, options_data):
     formatted_options = "\n".join(options_lines)
 
     if not formatted_options:
-        return "No valid options to be ranked."
+        return []
 
     prompt = RANKING_PROMPT.format(
         budget=user_inputs.get("budget", "N/A"),
@@ -51,7 +59,18 @@ def rank_destinations(user_inputs, options_data):
         model="gemini-2.5-flash",
         contents=prompt,
         config=types.GenerateContentConfig(
+            system_instruction=(
+                "You are a travel recommendation assistant."
+                "Always return valid JSON only."
+                "Do not respond with markdown, backticks, or extra text."
+            ),
             temperature=0.7
         )
     )
-    return response.text or "System failed to generate a ranking."
+    raw_text = response.text or ""
+
+    try: 
+        clean = raw_text.strip().replace("```json", "").replace("```", "")
+        return json.loads(clean)
+    except json.JSONDecodeError:
+        return[]
