@@ -4,13 +4,17 @@ from google import genai
 from google.genai import types
 from prompts import INTEREST_MAPPING_PROMPT, RANKING_PROMPT
 
-
-client = genai.Client(api_key=os.environ.get("GENAI_API_KEY"))
+try: 
+    api_key = os.environ.get("GENAI_API_KEY")
+    client = genai.Client(api_key=api_key) if api_key else None
+except Exception:
+    client = None
 
 def map_interest_to_tags(user_input):
     if not user_input.strip():
         return []
-    
+    if client is None:
+        return []
     prompt = INTEREST_MAPPING_PROMPT.format(user_input=user_input)
     response = client.models.generate_content(
         model="gemini-2.5-flash",
@@ -47,7 +51,8 @@ def rank_destinations(user_inputs, options_data):
 
     if not formatted_options:
         return []
-
+    if client is None:
+        return []
     prompt = RANKING_PROMPT.format(
         budget=user_inputs.get("budget", "N/A"),
         climate=user_inputs.get("climate", "N/A"),
