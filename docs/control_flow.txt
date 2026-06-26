@@ -1,0 +1,30 @@
+Collect user input
+        │
+        ▼
+Normalize interests (Gemini)
+        │
+        ▼
+Generate cache key
+        │
+        ▼
+Cache hit?
+   │            │
+ Yes          No
+ │             │
+ ▼             ▼
+Return      Query DB
+Cache           │
+                ▼
+      Score destinations
+                │
+                ▼
+      Weather API
+                │
+                ▼
+       Gemini ranking
+                │
+                ▼
+      Store in cache
+                │
+                ▼
+          Return result
