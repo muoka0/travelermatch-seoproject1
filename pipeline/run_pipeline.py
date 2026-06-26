@@ -26,22 +26,19 @@ def run_pipeline(
     interests: list[str]
 ):
 
+    # create a new database session
     initialize_database()
     session = SessionLocal()
 
     try:
-        # -----------------------------------------
-            # Seed database if empty
-        # -----------------------------------------
+        # fill the db with our seed data if it's empty
         if database_is_empty(session):
             seed_destinations(session)
             seed_interests(session)
             seed_destination_interests(session)
 
-            # -----------------------------------------
-            # Validate user input
-        # -----------------------------------------
-
+        
+        # validate the users input
         allowed_climates = get_unique_climates(session)
 
         valid, message = run_validation_pipeline(
@@ -51,26 +48,19 @@ def run_pipeline(
             climate=climate,
             interests=interests,
             allowed_climates=allowed_climates
-        )
-            
+        )     
         if not valid:
             return {
                 "success": False,
                 "message": message
             }
 
-        # -----------------------------------------
-            # Map user interests using Gemini
-        # -----------------------------------------
-
+        # map the users interests to the tags we use in our scoring system
         mapped_interests = map_interest_to_tags(
             interests
         )
 
-        # -----------------------------------------
-            # Generate cache key
-        # -----------------------------------------
-
+        # generate a hash key of a canonical string of the users constraints
         query_hash = generate_cache_key(
             budget_level,
             start_date,
@@ -79,10 +69,7 @@ def run_pipeline(
             mapped_interests
         )
 
-        # -----------------------------------------
-            # Check cache
-        # -----------------------------------------
-
+        # check the db for a cached result of this query
         cached_result = get_cached_search_by_hash(
             session,
             query_hash
@@ -91,20 +78,14 @@ def run_pipeline(
         if cached_result:
             return cached_result
 
-        # -----------------------------------------
-            # Retrieve destinations matching constraints
-        # -----------------------------------------
-
+        # query db to get destinations that meet the users constraints
         destinations = get_destinations_by_constraints(
             session=session,
             budget_level=budget_level,
             climate=climate
         )
 
-        # -----------------------------------------
-            # Score destinations
-        # -----------------------------------------
-
+        # score the destinations
         scored_destinations = score_destinations(
             destinations,
             mapped_interests
@@ -114,10 +95,7 @@ def run_pipeline(
             scored_destinations
         )
 
-        # --------------------------------------------------
-            # Retrieve weather for ranked destinations
-        # --------------------------------------------------
-
+        # retrieve the real-time weather for the top ranked destinations
         options_data = []
 
         for result in ranked_destinations:
@@ -137,10 +115,7 @@ def run_pipeline(
 
             options_data.append(weather)
 
-        # --------------------------------------------------
-        # Final Gemini recommendation
-        # --------------------------------------------------
-
+        # get the final destination recommendations from the Gemini API
         user_inputs = {
             "budget": budget_level,
             "climate": climate,
@@ -152,10 +127,7 @@ def run_pipeline(
             options_data
             )
 
-        # --------------------------------------------------
-            # Store in cache
-        # --------------------------------------------------
-
+        # store this search in the db for future queries
         insert_cached_search(
             session,
             query_hash=query_hash,
@@ -172,4 +144,3 @@ def run_pipeline(
 
     finally:
         session.close()
-

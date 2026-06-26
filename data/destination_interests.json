@@ -2,38 +2,37 @@
     {
       "country": "United States",
       "city": "New York City",
-      "interests": ["modern cities", "food", "shopping", "nightlife", "art", "photography"]
+      "interests": ["modern-cities", "food", "shopping", "nightlife", "art", "photography"]
     },
     {
       "country": "United States",
       "city": "Los Angeles",
-      "interests": ["beaches", "modern cities", "luxury travel", "shopping", "nightlife", "photography"]
+      "interests": ["beaches", "modern-cities", "shopping", "nightlife", "photography", "culture"]
     },
     {
       "country": "United States",
       "city": "Chicago",
-      "interests": ["architecture", "museums", "food", "modern cities", "culture"]
+      "interests": ["architecture", "museums", "food", "modern-cities", "culture"]
     },
     {
       "country": "United States",
       "city": "Santa Fe",
-      "interests": ["art", "culture", "history", "architecture", "photography", "local experiences"]
+      "interests": ["art", "culture", "history", "architecture", "photography", "museums"]
     },
     {
       "country": "United States",
       "city": "Asheville",
-      "interests": ["nature", "hiking", "mountains", "relaxation", "eco travel", "scenic drives"]
+      "interests": ["nature", "hiking", "mountains", "relaxing", "views", "photography"]
     },
-  
     {
       "country": "Canada",
       "city": "Toronto",
-      "interests": ["modern cities", "food", "shopping", "culture", "nightlife", "museums"]
+      "interests": ["modern-cities", "food", "shopping", "culture", "nightlife", "museums"]
     },
     {
       "country": "Canada",
       "city": "Vancouver",
-      "interests": ["nature", "mountains", "beaches", "hiking", "eco travel", "photography"]
+      "interests": ["nature", "mountains", "beaches", "hiking", "photography", "views"]
     },
     {
       "country": "Canada",
@@ -43,454 +42,439 @@
     {
       "country": "Canada",
       "city": "Banff",
-      "interests": ["nature", "mountains", "hiking", "snow sports", "photography", "eco travel"]
+      "interests": ["nature", "mountains", "hiking", "skiing", "photography", "wildlife"]
     },
     {
       "country": "Canada",
       "city": "Halifax",
-      "interests": ["beaches", "nature", "seafood", "relaxation", "scenic drives", "local experiences"]
+      "interests": ["beaches", "nature", "food", "relaxing", "views", "photography"]
     },
-  
     {
       "country": "Mexico",
       "city": "Mexico City",
-      "interests": ["food", "street food", "culture", "history", "museums", "urban exploration"]
+      "interests": ["food", "street-food", "culture", "history", "museums", "architecture"]
     },
     {
       "country": "Mexico",
       "city": "Cancún",
-      "interests": ["beaches", "islands", "relaxation", "luxury travel", "water sports", "nightlife"]
+      "interests": ["beaches", "relaxing", "diving", "nightlife", "sailing", "surfing"]
     },
     {
       "country": "Mexico",
       "city": "Guadalajara",
-      "interests": ["culture", "music", "food", "festivals", "architecture", "local experiences"]
+      "interests": ["culture", "live-music", "food", "festivals", "architecture", "history"]
     },
     {
       "country": "Mexico",
       "city": "Oaxaca City",
-      "interests": ["food", "culture", "history", "art", "night markets", "local experiences"]
+      "interests": ["food", "culture", "history", "art", "street-food", "markets"]
     },
     {
       "country": "Mexico",
       "city": "San Cristóbal de las Casas",
-      "interests": ["culture", "history", "backpacking", "eco travel", "hidden gems", "relaxation"]
+      "interests": ["culture", "history", "nature", "hiking", "relaxing", "architecture"]
     },
-  
     {
       "country": "Brazil",
       "city": "Rio de Janeiro",
-      "interests": ["beaches", "nightlife", "festivals", "music", "culture", "photography"]
+      "interests": ["beaches", "nightlife", "festivals", "salsa", "culture", "photography"]
     },
     {
       "country": "Brazil",
       "city": "São Paulo",
-      "interests": ["modern cities", "food", "nightlife", "art", "shopping", "culture"]
+      "interests": ["modern-cities", "food", "nightlife", "art", "shopping", "culture"]
     },
     {
       "country": "Brazil",
       "city": "Salvador",
-      "interests": ["culture", "festivals", "music", "history", "beaches", "local experiences"]
+      "interests": ["culture", "festivals", "salsa", "history", "beaches", "food"]
     },
     {
       "country": "Brazil",
       "city": "Manaus",
-      "interests": ["wildlife", "nature", "adventure", "eco travel", "safari", "photography"]
+      "interests": ["wildlife", "nature", "adventure", "safari", "photography", "trekking"]
     },
     {
       "country": "Brazil",
       "city": "Paraty",
-      "interests": ["beaches", "history", "architecture", "relaxation", "photography", "scenic drives"]
+      "interests": ["beaches", "history", "architecture", "relaxing", "photography", "views"]
     },
-  
     {
       "country": "Argentina",
       "city": "Buenos Aires",
-      "interests": ["culture", "art", "nightlife", "food", "architecture", "music"]
+      "interests": ["culture", "art", "nightlife", "food", "architecture", "tango"]
     },
     {
       "country": "Argentina",
       "city": "Mendoza",
-      "interests": ["scenic drives", "relaxation", "nature", "luxury travel", "photography"]
+      "interests": ["wine", "nature", "relaxing", "photography", "wine-farms"]
     },
     {
       "country": "Argentina",
       "city": "Córdoba",
-      "interests": ["culture", "history", "architecture", "local experiences", "food", "urban exploration"]
+      "interests": ["culture", "history", "architecture", "food", "museums"]
     },
     {
       "country": "Argentina",
       "city": "Ushuaia",
-      "interests": ["adventure", "nature", "snow sports", "wildlife", "eco travel", "photography"]
+      "interests": ["adventure", "nature", "skiing", "wildlife", "photography", "mountains"]
     },
     {
       "country": "Argentina",
       "city": "Bariloche",
-      "interests": ["mountains", "hiking", "snow sports", "nature", "scenic drives", "eco travel"]
+      "interests": ["mountains", "hiking", "skiing", "nature", "views", "photography"]
     },
     {
-        "country": "Chile",
-        "city": "Santiago",
-        "interests": ["modern cities", "culture", "food", "architecture", "urban exploration"]
+      "country": "Chile",
+      "city": "Santiago",
+      "interests": ["modern-cities", "culture", "food", "architecture", "shopping"]
     },
     {
-        "country": "Chile",
-        "city": "Valparaíso",
-        "interests": ["art", "culture", "architecture", "photography", "historic cities", "local experiences"]
+      "country": "Chile",
+      "city": "Valparaíso",
+      "interests": ["art", "culture", "architecture", "photography", "street-art", "murals"]
     },
     {
-        "country": "Chile",
-        "city": "Punta Arenas",
-        "interests": ["nature", "wildlife", "adventure", "eco travel", "snow sports", "photography"]
+      "country": "Chile",
+      "city": "Punta Arenas",
+      "interests": ["nature", "wildlife", "adventure", "skiing", "photography", "mountains"]
     },
     {
-        "country": "Chile",
-        "city": "San Pedro de Atacama",
-        "interests": ["desert landscapes", "nature", "photography", "adventure", "eco travel", "off the beaten path"]
+      "country": "Chile",
+      "city": "San Pedro de Atacama",
+      "interests": ["desert", "nature", "photography", "adventure", "volcanoes", "views"]
     },
     {
-        "country": "Chile",
-        "city": "Puerto Varas",
-        "interests": ["nature", "mountains", "hiking", "eco travel", "scenic drives", "photography"]
-    },
-    
-    {
-        "country": "Peru",
-        "city": "Lima",
-        "interests": ["food", "street food", "culture", "modern cities", "urban exploration", "museums"]
+      "country": "Chile",
+      "city": "Puerto Varas",
+      "interests": ["nature", "mountains", "hiking", "views", "photography", "volcanoes"]
     },
     {
-        "country": "Peru",
-        "city": "Cusco",
-        "interests": ["history", "culture", "UNESCO sites", "architecture", "spirituality", "local experiences"]
+      "country": "Peru",
+      "city": "Lima",
+      "interests": ["food", "street-food", "culture", "modern-cities", "museums", "architecture"]
+    },
+    {
+      "country": "Peru",
+      "city": "Cusco",
+      "interests": ["history", "culture", "architecture", "hiking", "mountains", "trekking"]
     },
     {
         "country": "Peru",
         "city": "Arequipa",
-        "interests": ["architecture", "history", "culture", "local experiences", "scenic drives", "photography"]
+        "interests": ["architecture", "history", "culture", "photography", "views"]
     },
     {
         "country": "Peru",
         "city": "Iquitos",
-        "interests": ["wildlife", "nature", "adventure", "eco travel", "safari", "off the beaten path"]
+        "interests": ["wildlife", "nature", "adventure", "safari", "trekking"]
     },
     {
         "country": "Peru",
         "city": "Huaraz",
-        "interests": ["mountains", "hiking", "adventure", "nature", "eco travel", "scenic drives"]
+        "interests": ["mountains", "hiking", "adventure", "nature", "trekking", "views"]
     },
-    
     {
         "country": "Colombia",
         "city": "Bogotá",
-        "interests": ["culture", "museums", "modern cities", "food", "urban exploration", "art"]
+        "interests": ["culture", "museums", "modern-cities", "food", "art"]
     },
     {
         "country": "Colombia",
         "city": "Medellín",
-        "interests": ["modern cities", "culture", "nightlife", "food", "urban exploration", "festivals"]
+        "interests": ["modern-cities", "culture", "nightlife", "food", "festivals"]
     },
     {
         "country": "Colombia",
         "city": "Cartagena",
-        "interests": ["beaches", "history", "architecture", "culture", "romantic getaways", "photography"]
+        "interests": ["beaches", "history", "architecture", "culture", "romance", "photography"]
     },
     {
         "country": "Colombia",
         "city": "Salento",
-        "interests": ["nature", "coffee tourism", "hiking", "eco travel", "scenic drives", "photography"]
+        "interests": ["nature", "coffee", "hiking", "trekking", "views", "photography"]
     },
     {
         "country": "Colombia",
         "city": "Minca",
-        "interests": ["nature", "wildlife", "eco travel", "hiking", "off the beaten path", "relaxation"]
+        "interests": ["nature", "wildlife", "trekking", "hiking", "adventure", "relaxing"]
     },
-    
     {
         "country": "Ecuador",
         "city": "Quito",
-        "interests": ["history", "culture", "UNESCO sites", "architecture", "museums", "urban exploration"]
+        "interests": ["history", "culture", "architecture", "museums", "modern-cities"]
     },
     {
         "country": "Ecuador",
         "city": "Guayaquil",
-        "interests": ["modern cities", "food", "culture", "urban exploration", "nightlife", "shopping"]
+        "interests": ["modern-cities", "food", "culture", "nightlife", "shopping"]
     },
     {
         "country": "Ecuador",
         "city": "Cuenca",
-        "interests": ["culture", "history", "architecture", "relaxation", "local experiences", "art"]
+        "interests": ["culture", "history", "architecture", "relaxing", "art"]
     },
     {
         "country": "Ecuador",
         "city": "Baños",
-        "interests": ["adventure", "nature", "water sports", "eco travel", "hiking", "hot springs"]
+        "interests": ["adventure", "nature", "hot-springs", "hiking", "trekking"]
     },
     {
         "country": "Ecuador",
         "city": "Montañita",
-        "interests": ["beaches", "surfing", "nightlife", "backpacking", "water sports", "relaxation"]
+        "interests": ["beaches", "surfing", "nightlife", "relaxing", "adventure"]
     },
-    
     {
         "country": "Uruguay",
         "city": "Montevideo",
-        "interests": ["culture", "modern cities", "food", "beaches", "urban exploration", "relaxation"]
+        "interests": ["culture", "modern-cities", "food", "beaches", "relaxing"]
     },
     {
         "country": "Uruguay",
         "city": "Punta del Este",
-        "interests": ["beaches", "luxury travel", "nightlife", "shopping", "relaxation", "water sports"]
+        "interests": ["beaches", "shopping", "nightlife", "relaxing"]
     },
     {
         "country": "Uruguay",
         "city": "Colonia del Sacramento",
-        "interests": ["history", "architecture", "romantic getaways", "photography", "culture", "UNESCO sites"]
+        "interests": ["history", "architecture", "romance", "photography", "culture"]
     },
     {
         "country": "Uruguay",
         "city": "Rocha",
-        "interests": ["beaches", "nature", "eco travel", "relaxation", "off the beaten path", "camping"]
+        "interests": ["beaches", "nature", "relaxing", "camping"]
     },
     {
         "country": "Uruguay",
         "city": "Piriápolis",
-        "interests": ["beaches", "relaxation", "nature", "scenic drives", "family travel", "eco travel"]
+        "interests": ["beaches", "relaxing", "nature", "views"]
     },
-    
     {
         "country": "United Kingdom",
         "city": "London",
-        "interests": ["modern cities", "history", "museums", "culture", "shopping", "architecture"]
+        "interests": ["modern-cities", "history", "museums", "culture", "shopping", "architecture"]
     },
     {
         "country": "United Kingdom",
         "city": "Edinburgh",
-        "interests": ["history", "culture", "festivals", "architecture", "UNESCO sites", "photography"]
+        "interests": ["history", "culture", "festivals", "architecture", "photography"]
     },
     {
         "country": "United Kingdom",
         "city": "Manchester",
-        "interests": ["modern cities", "music", "nightlife", "culture", "food", "urban exploration"]
+        "interests": ["modern-cities", "nightlife", "culture", "food", "music"]
     },
     {
         "country": "United Kingdom",
         "city": "Bath",
-        "interests": ["history", "architecture", "relaxation", "spas", "UNESCO sites", "romantic getaways"]
+        "interests": ["history", "architecture", "relaxing", "romance"]
     },
     {
         "country": "United Kingdom",
         "city": "York",
-        "interests": ["history", "architecture", "culture", "UNESCO sites", "museums", "photography"]
+        "interests": ["history", "architecture", "culture", "museums", "photography"]
     },
-    
     {
         "country": "Ireland",
         "city": "Dublin",
-        "interests": ["culture", "nightlife", "music", "modern cities", "history", "food"]
+        "interests": ["culture", "nightlife", "music", "modern-cities", "history", "food"]
     },
     {
         "country": "Ireland",
         "city": "Galway",
-        "interests": ["culture", "music", "nature", "festivals", "local experiences", "coastal scenery"]
+        "interests": ["culture", "music", "nature", "festivals", "views"]
     },
     {
         "country": "Ireland",
         "city": "Cork",
-        "interests": ["food", "culture", "history", "local experiences", "nature", "urban exploration"]
+        "interests": ["food", "culture", "history", "nature", "modern-cities"]
     },
     {
         "country": "Ireland",
         "city": "Killarney",
-        "interests": ["nature", "hiking", "mountains", "eco travel", "scenic drives", "relaxation"]
+        "interests": ["nature", "hiking", "mountains", "trekking", "relaxing"]
     },
     {
         "country": "Ireland",
         "city": "Dingle",
-        "interests": ["nature", "coastal scenery", "road trips", "photography", "relaxation", "eco travel"]
+        "interests": ["nature", "views", "relaxing", "trekking", "camping"]
     },
-    
     {
         "country": "France",
         "city": "Paris",
-        "interests": ["art", "culture", "architecture", "museums", "romantic getaways", "shopping"]
+        "interests": ["art", "culture", "architecture", "museums", "shopping"]
     },
     {
         "country": "France",
         "city": "Lyon",
-        "interests": ["food", "culture", "architecture", "museums", "urban exploration", "history"]
+        "interests": ["food", "culture", "architecture", "museums", "history"]
     },
     {
         "country": "France",
         "city": "Nice",
-        "interests": ["beaches", "luxury travel", "relaxation", "mediterranean lifestyle", "photography", "shopping"]
+        "interests": ["beaches", "relaxing", "photography", "shopping"]
     },
     {
         "country": "France",
         "city": "Annecy",
-        "interests": ["nature", "mountains", "hiking", "scenic drives", "romantic getaways", "photography"]
+        "interests": ["nature", "mountains", "hiking", "photography", "relaxing"]
     },
     {
         "country": "France",
         "city": "Bordeaux",
-        "interests": ["food", "wine tourism", "culture", "architecture", "relaxation", "urban exploration"]
+        "interests": ["food", "culture", "architecture", "relaxing", "history"]
     },
-    
     {
         "country": "Spain",
         "city": "Madrid",
-        "interests": ["modern cities", "culture", "nightlife", "museums", "food", "architecture"]
+        "interests": ["modern-cities", "culture", "nightlife", "museums", "food", "architecture"]
     },
     {
         "country": "Spain",
         "city": "Barcelona",
-        "interests": ["architecture", "beaches", "culture", "nightlife", "art", "urban exploration"]
+        "interests": ["architecture", "beaches", "culture", "nightlife", "art"]
     },
     {
         "country": "Spain",
         "city": "Seville",
-        "interests": ["culture", "history", "architecture", "festivals", "food", "romantic getaways"]
+        "interests": ["culture", "history", "architecture", "festivals", "food"]
     },
     {
         "country": "Spain",
         "city": "Granada",
-        "interests": ["history", "architecture", "culture", "UNESCO sites", "photography", "local experiences"]
+        "interests": ["history", "architecture", "culture", "photography"]
     },
     {
         "country": "Spain",
         "city": "San Sebastián",
-        "interests": ["food", "beaches", "luxury travel", "culture", "relaxation", "nightlife"]
+        "interests": ["food", "beaches", "relaxing", "culture", "nightlife"]
     },
     
     {
         "country": "Italy",
         "city": "Rome",
-        "interests": ["history", "architecture", "culture", "UNESCO sites", "museums", "food"]
+        "interests": ["history", "architecture", "culture", "museums", "food"]
     },
     {
         "country": "Italy",
         "city": "Milan",
-        "interests": ["fashion", "modern cities", "shopping", "architecture", "food", "nightlife"]
+        "interests": ["modern-cities", "shopping", "architecture", "food", "nightlife"]
     },
     {
         "country": "Italy",
         "city": "Florence",
-        "interests": ["art", "history", "architecture", "culture", "UNESCO sites", "romantic getaways"]
+        "interests": ["art", "history", "architecture", "culture"]
     },
     {
         "country": "Italy",
         "city": "Bologna",
-        "interests": ["food", "culture", "history", "architecture", "local experiences", "urban exploration"]
+        "interests": ["food", "culture", "history", "architecture"]
     },
     {
         "country": "Italy",
         "city": "Matera",
-        "interests": ["history", "architecture", "UNESCO sites", "photography", "culture", "off the beaten path"]
+        "interests": ["history", "architecture", "photography", "culture"]
     },
     {
         "country": "Germany",
         "city": "Berlin",
-        "interests": ["modern cities", "history", "culture", "nightlife", "museums", "urban exploration"]
+        "interests": ["modern-cities", "history", "culture", "nightlife", "museums"]
     },
     {
         "country": "Germany",
         "city": "Munich",
-        "interests": ["culture", "festivals", "food", "history", "architecture", "beer culture"]
+        "interests": ["culture", "festivals", "food", "history", "architecture"]
     },
     {
         "country": "Germany",
         "city": "Hamburg",
-        "interests": ["modern cities", "nightlife", "culture", "music", "urban exploration", "architecture"]
+        "interests": ["modern-cities", "nightlife", "culture", "music", "architecture"]
     },
     {
         "country": "Germany",
         "city": "Heidelberg",
-        "interests": ["history", "architecture", "romantic getaways", "culture", "photography", "UNESCO sites"]
+        "interests": ["history", "architecture", "culture", "photography"]
     },
     {
         "country": "Germany",
         "city": "Dresden",
-        "interests": ["history", "architecture", "culture", "museums", "UNESCO sites", "photography"]
+        "interests": ["history", "architecture", "culture", "museums", "photography"]
     },
-    
     {
         "country": "Netherlands",
         "city": "Amsterdam",
-        "interests": ["culture", "modern cities", "nightlife", "museums", "architecture", "urban exploration"]
+        "interests": ["culture", "modern-cities", "nightlife", "museums", "architecture"]
     },
     {
         "country": "Netherlands",
         "city": "Rotterdam",
-        "interests": ["modern cities", "architecture", "urban exploration", "culture", "shopping", "food"]
+        "interests": ["modern-cities", "architecture", "culture", "shopping", "food"]
     },
     {
         "country": "Netherlands",
         "city": "Utrecht",
-        "interests": ["culture", "history", "architecture", "canal cities", "relaxation", "local experiences"]
+        "interests": ["culture", "history", "architecture", "relaxing"]
     },
     {
         "country": "Netherlands",
         "city": "Maastricht",
-        "interests": ["culture", "history", "romantic getaways", "architecture", "food", "local experiences"]
+        "interests": ["culture", "history", "architecture", "food", "relaxing"]
     },
     {
         "country": "Netherlands",
         "city": "Giethoorn",
-        "interests": ["nature", "relaxation", "eco travel", "scenic drives", "photography", "off the beaten path"]
+        "interests": ["nature", "relaxing", "photography"]
     },
-    
     {
         "country": "Belgium",
         "city": "Brussels",
-        "interests": ["culture", "museums", "history", "architecture", "food", "modern cities"]
+        "interests": ["culture", "museums", "history", "architecture", "food", "modern-cities"]
     },
     {
         "country": "Belgium",
         "city": "Bruges",
-        "interests": ["history", "architecture", "romantic getaways", "UNESCO sites", "photography", "culture"]
+        "interests": ["history", "architecture", "photography", "culture"]
     },
     {
         "country": "Belgium",
         "city": "Antwerp",
-        "interests": ["fashion", "modern cities", "culture", "architecture", "shopping", "art"]
+        "interests": ["fashion", "modern-cities", "culture", "architecture", "shopping", "art"]
     },
     {
         "country": "Belgium",
         "city": "Ghent",
-        "interests": ["history", "culture", "architecture", "nightlife", "museums", "urban exploration"]
+        "interests": ["history", "culture", "architecture", "nightlife", "museums"]
     },
     {
         "country": "Belgium",
         "city": "Dinant",
-        "interests": ["nature", "photography", "scenic drives", "history", "eco travel", "relaxation"]
+        "interests": ["nature", "photography", "history", "relaxing"]
     },
-    
     {
         "country": "Switzerland",
         "city": "Zurich",
-        "interests": ["modern cities", "luxury travel", "shopping", "culture", "food", "architecture"]
+        "interests": ["modern-cities", "luxury travel", "shopping", "culture", "food", "architecture"]
     },
     {
         "country": "Switzerland",
         "city": "Geneva",
-        "interests": ["culture", "luxury travel", "museums", "international travel", "food", "architecture"]
+        "interests": ["culture", "luxury travel", "museums", "food", "architecture"]
     },
     {
         "country": "Switzerland",
         "city": "Lucerne",
-        "interests": ["nature", "mountains", "photography", "romantic getaways", "scenic drives", "culture"]
+        "interests": ["nature", "mountains", "photography", "culture"]
     },
     {
         "country": "Switzerland",
         "city": "Interlaken",
-        "interests": ["adventure", "nature", "mountains", "hiking", "snow sports", "eco travel"]
+        "interests": ["adventure", "nature", "mountains", "hiking"]
     },
     {
         "country": "Switzerland",
         "city": "Zermatt",
-        "interests": ["mountains", "snow sports", "skiing", "luxury travel", "nature", "eco travel"]
+        "interests": ["mountains", "skiing", "luxury travel", "nature"]
     },
-    
     {
         "country": "Austria",
         "city": "Vienna",
@@ -499,235 +483,227 @@
     {
         "country": "Austria",
         "city": "Salzburg",
-        "interests": ["culture", "music", "history", "architecture", "UNESCO sites", "romantic getaways"]
+        "interests": ["culture", "music", "history", "architecture"]
     },
     {
         "country": "Austria",
         "city": "Innsbruck",
-        "interests": ["mountains", "snow sports", "skiing", "nature", "adventure", "eco travel"]
+        "interests": ["mountains", "skiing", "nature", "adventure"]
     },
     {
         "country": "Austria",
         "city": "Hallstatt",
-        "interests": ["nature", "photography", "romantic getaways", "scenic drives", "culture", "UNESCO sites"]
+        "interests": ["nature", "photography", "culture"]
     },
     {
         "country": "Austria",
         "city": "Graz",
-        "interests": ["culture", "architecture", "food", "modern cities", "history", "local experiences"]
+        "interests": ["culture", "architecture", "food", "modern-cities", "history"]
     },
-    
     {
         "country": "Japan",
         "city": "Tokyo",
-        "interests": ["modern cities", "food", "shopping", "nightlife", "culture", "urban exploration"]
+        "interests": ["modern-cities", "food", "shopping", "nightlife", "culture"]
     },
     {
         "country": "Japan",
         "city": "Kyoto",
-        "interests": ["culture", "history", "spirituality", "UNESCO sites", "architecture", "temples"]
+        "interests": ["culture", "history", "architecture", "temples"]
     },
     {
         "country": "Japan",
         "city": "Osaka",
-        "interests": ["food", "street food", "nightlife", "modern cities", "culture", "urban exploration"]
+        "interests": ["food", "street-food", "nightlife", "modern-cities", "culture"]
     },
     {
         "country": "Japan",
         "city": "Nara",
-        "interests": ["culture", "history", "spirituality", "nature", "wildlife", "UNESCO sites"]
+        "interests": ["culture", "history", "nature", "wildlife"]
     },
     {
         "country": "Japan",
         "city": "Hakone",
-        "interests": ["nature", "relaxation", "hot springs", "mountains", "eco travel", "romantic getaways"]
+        "interests": ["nature", "relaxing", "hot-springs", "mountains"]
     },
-    
     {
         "country": "South Korea",
         "city": "Seoul",
-        "interests": ["modern cities", "food", "shopping", "nightlife", "culture", "urban exploration"]
+        "interests": ["modern-cities", "food", "shopping", "nightlife", "culture"]
     },
     {
         "country": "South Korea",
         "city": "Busan",
-        "interests": ["beaches", "food", "modern cities", "culture", "relaxation", "nightlife"]
+        "interests": ["beaches", "food", "modern-cities", "culture", "relaxing", "nightlife"]
     },
     {
         "country": "South Korea",
         "city": "Incheon",
-        "interests": ["modern cities", "culture", "shopping", "urban exploration", "food", "architecture"]
+        "interests": ["modern-cities", "culture", "shopping", "food", "architecture"]
     },
     {
         "country": "South Korea",
         "city": "Jeju City",
-        "interests": ["nature", "beaches", "hiking", "eco travel", "relaxation", "photography"]
+        "interests": ["nature", "beaches", "hiking", "relaxing"]
     },
     {
         "country": "South Korea",
         "city": "Gyeongju",
-        "interests": ["history", "culture", "UNESCO sites", "architecture", "spirituality", "photography"]
+        "interests": ["history", "culture", "architecture", "photography"]
     },
-    
     {
         "country": "China",
         "city": "Beijing",
-        "interests": ["history", "culture", "UNESCO sites", "museums", "architecture", "modern cities"]
+        "interests": ["history", "culture", "museums", "architecture", "modern-cities"]
     },
     {
         "country": "China",
         "city": "Shanghai",
-        "interests": ["modern cities", "shopping", "nightlife", "architecture", "food", "urban exploration"]
+        "interests": ["modern-cities", "shopping", "nightlife", "architecture", "food"]
     },
     {
         "country": "China",
         "city": "Guangzhou",
-        "interests": ["food", "modern cities", "culture", "shopping", "urban exploration", "nightlife"]
+        "interests": ["food", "modern-cities", "culture", "shopping", "nightlife"]
     },
     {
         "country": "China",
         "city": "Chengdu",
-        "interests": ["food", "culture", "wildlife", "nature", "urban exploration", "local experiences"]
+        "interests": ["food", "culture", "wildlife", "nature"]
     },
     {
         "country": "China",
         "city": "Hangzhou",
-        "interests": ["nature", "culture", "romantic getaways", "scenic drives", "photography", "UNESCO sites"]
+        "interests": ["nature", "culture", "photography", "history"]
     },
-    
     {
         "country": "Thailand",
         "city": "Bangkok",
-        "interests": ["food", "street food", "nightlife", "culture", "modern cities", "shopping"]
+        "interests": ["food", "street-food", "nightlife", "culture", "modern-cities", "shopping"]
     },
     {
         "country": "Thailand",
         "city": "Chiang Mai",
-        "interests": ["culture", "spirituality", "nature", "eco travel", "relaxation", "night markets"]
+        "interests": ["culture", "nature", "relaxing"]
     },
     {
         "country": "Thailand",
         "city": "Phuket",
-        "interests": ["beaches", "islands", "nightlife", "water sports", "relaxation", "luxury travel"]
+        "interests": ["beaches", "nightlife", "relaxing", "luxury travel"]
     },
     {
         "country": "Thailand",
         "city": "Krabi",
-        "interests": ["beaches", "nature", "adventure", "water sports", "photography", "eco travel"]
+        "interests": ["beaches", "nature", "adventure", "photography"]
     },
     {
         "country": "Thailand",
         "city": "Pai",
-        "interests": ["nature", "relaxation", "backpacking", "eco travel", "off the beaten path", "mountains"]
+        "interests": ["nature", "relaxing", "mountains", "adventure"]
     },
-    
     {
         "country": "Vietnam",
         "city": "Hanoi",
-        "interests": ["culture", "food", "street food", "history", "urban exploration", "museums"]
+        "interests": ["culture", "food", "street-food", "history", "museums"]
     },
     {
         "country": "Vietnam",
         "city": "Ho Chi Minh City",
-        "interests": ["modern cities", "food", "nightlife", "culture", "urban exploration", "shopping"]
+        "interests": ["modern-cities", "food", "nightlife", "culture", "shopping"]
     },
     {
         "country": "Vietnam",
         "city": "Da Nang",
-        "interests": ["beaches", "modern cities", "food", "relaxation", "water sports", "scenic drives"]
+        "interests": ["beaches", "modern-cities", "food", "relaxing"]
     },
     {
         "country": "Vietnam",
         "city": "Hoi An",
-        "interests": ["culture", "history", "architecture", "romantic getaways", "UNESCO sites", "photography"]
+        "interests": ["culture", "history", "architecture", "photography"]
     },
     {
         "country": "Vietnam",
         "city": "Sapa",
-        "interests": ["nature", "mountains", "hiking", "eco travel", "photography", "off the beaten path"]
-    },
-    
+        "interests": ["nature", "mountains", "hiking"]
+    },    
     {
         "country": "Indonesia",
         "city": "Jakarta",
-        "interests": ["modern cities", "food", "nightlife", "culture", "shopping", "urban exploration"]
+        "interests": ["modern-cities", "food", "nightlife", "culture", "shopping"]
     },
     {
         "country": "Indonesia",
         "city": "Bali",
-        "interests": ["beaches", "relaxation", "luxury travel", "spirituality", "nature", "yoga/wellness"]
+        "interests": ["beaches", "relaxing", "luxury travel", "nature", "wellness", "yoga"]
     },
     {
         "country": "Indonesia",
         "city": "Yogyakarta",
-        "interests": ["culture", "history", "art", "UNESCO sites", "architecture", "local experiences"]
+        "interests": ["culture", "history", "art", "architecture"]
     },
     {
         "country": "Indonesia",
         "city": "Ubud",
-        "interests": ["nature", "spirituality", "relaxation", "wellness", "eco travel", "culture"]
+        "interests": ["nature", "relaxing", "wellness", "culture"]
     },
     {
         "country": "Indonesia",
         "city": "Lombok",
-        "interests": ["beaches", "nature", "adventure", "eco travel", "relaxation", "surfing"]
+        "interests": ["beaches", "nature", "adventure", "surfing", "relaxing"]
     },
-    
     {
         "country": "Malaysia",
         "city": "Kuala Lumpur",
-        "interests": ["modern cities", "food", "shopping", "culture", "nightlife", "architecture"]
+        "interests": ["modern-cities", "food", "shopping", "culture", "nightlife", "architecture"]
     },
     {
         "country": "Malaysia",
         "city": "George Town",
-        "interests": ["food", "culture", "history", "street food", "architecture", "urban exploration"]
+        "interests": ["food", "culture", "history", "architecture", "street-food"]
     },
     {
         "country": "Malaysia",
         "city": "Langkawi",
-        "interests": ["beaches", "islands", "relaxation", "luxury travel", "nature", "water sports"]
+        "interests": ["beaches", "islands", "relaxing", "luxury travel", "nature"]
     },
     {
         "country": "Malaysia",
         "city": "Kota Kinabalu",
-        "interests": ["nature", "wildlife", "eco travel", "mountains", "adventure", "diving"]
+        "interests": ["nature", "wildlife", "adventure", "mountains"]
     },
     {
         "country": "Malaysia",
         "city": "Malacca",
-        "interests": ["history", "culture", "architecture", "UNESCO sites", "food", "local experiences"]
+        "interests": ["history", "culture", "architecture", "food"]
     },
-    
     {
         "country": "Singapore",
         "city": "Singapore City",
-        "interests": ["modern cities", "luxury travel", "food", "shopping", "culture", "architecture"]
+        "interests": ["modern-cities", "luxury travel", "food", "shopping", "culture", "architecture"]
     },
     {
         "country": "Singapore",
         "city": "Marina Bay",
-        "interests": ["modern cities", "luxury travel", "architecture", "photography", "nightlife", "shopping"]
+        "interests": ["modern-cities", "luxury travel", "architecture", "photography", "shopping"]
     },
     {
         "country": "Singapore",
         "city": "Sentosa",
-        "interests": ["beaches", "relaxation", "family travel", "water sports", "luxury travel", "entertainment"]
+        "interests": ["beaches", "relaxing", "family travel", "luxury travel"]
     },
     {
         "country": "Singapore",
         "city": "Chinatown",
-        "interests": ["culture", "food", "street food", "history", "shopping", "local experiences"]
+        "interests": ["culture", "food", "street-food", "history", "shopping"]
     },
     {
         "country": "Singapore",
         "city": "Little India",
-        "interests": ["culture", "food", "street food", "festivals", "local experiences", "shopping"]
+        "interests": ["culture", "food", "street-food", "festivals", "shopping"]
     },
     {
         "country": "Philippines",
         "city": "Manila",
-        "interests": ["urban exploration", "street food", "nightlife", "modern cities", "shopping"]
+        "interests": ["modern-cities", "street-food", "nightlife", "shopping"]
     },
     {
         "country": "Philippines",
@@ -737,7 +713,7 @@
     {
         "country": "Philippines",
         "city": "Davao",
-        "interests": ["nature", "wildlife", "eco travel", "relaxation", "off the beaten path"]
+        "interests": ["nature", "wildlife", "relaxing"]
     },
     {
         "country": "Philippines",
@@ -747,428 +723,412 @@
     {
         "country": "Philippines",
         "city": "Baguio",
-        "interests": ["mountains", "cool climate travel", "relaxation", "nature", "road trips"]
+        "interests": ["mountains", "relaxing", "nature"]
     },
-    
     {
         "country": "India",
         "city": "New Delhi",
-        "interests": ["history", "culture", "architecture", "street food", "urban exploration"]
+        "interests": ["history", "culture", "architecture", "street-food"]
     },
     {
         "country": "India",
         "city": "Mumbai",
-        "interests": ["nightlife", "modern cities", "food", "street food", "urban exploration"]
+        "interests": ["nightlife", "modern-cities", "food", "street-food"]
     },
     {
         "country": "India",
         "city": "Jaipur",
-        "interests": ["history", "architecture", "UNESCO sites", "culture", "photography"]
+        "interests": ["history", "architecture", "culture", "photography"]
     },
     {
         "country": "India",
         "city": "Varanasi",
-        "interests": ["spirituality", "religion", "culture", "history", "river experiences"]
+        "interests": ["spirituality", "culture", "history"]
     },
     {
         "country": "India",
         "city": "Udaipur",
-        "interests": ["romantic getaways", "architecture", "lakes", "luxury travel", "photography"]
+        "interests": ["romantic getaways", "architecture", "relaxing", "photography"]
     },
-    
     {
         "country": "South Africa",
         "city": "Cape Town",
-        "interests": ["nature", "mountains", "beaches", "scenic drives", "photography"]
+        "interests": ["nature", "mountains", "beaches", "photography"]
     },
     {
         "country": "South Africa",
         "city": "Johannesburg",
-        "interests": ["urban exploration", "history", "culture", "modern cities", "museums"]
+        "interests": ["modern-cities", "history", "culture", "museums"]
     },
     {
         "country": "South Africa",
         "city": "Durban",
-        "interests": ["beaches", "surfing", "water sports", "food", "relaxation"]
+        "interests": ["beaches", "surfing", "food", "relaxing"]
     },
     {
         "country": "South Africa",
         "city": "Stellenbosch",
-        "interests": ["wine tourism", "luxury travel", "relaxation", "scenic drives", "food"]
+        "interests": ["luxury travel", "relaxing", "food"]
     },
     {
         "country": "South Africa",
         "city": "Knysna",
-        "interests": ["nature", "forests", "road trips", "relaxation", "photography"]
+        "interests": ["nature", "relaxing", "photography"]
     },
-    
     {
         "country": "Kenya",
         "city": "Nairobi",
-        "interests": ["urban exploration", "wildlife", "safari", "culture", "museums"]
+        "interests": ["wildlife", "culture", "museums", "modern-cities"]
     },
     {
         "country": "Kenya",
         "city": "Mombasa",
-        "interests": ["beaches", "culture", "history", "relaxation", "street food"]
+        "interests": ["beaches", "culture", "history", "relaxing"]
     },
     {
         "country": "Kenya",
         "city": "Nakuru",
-        "interests": ["wildlife", "nature", "safari", "photography", "eco travel"]
+        "interests": ["wildlife", "nature", "photography"]
     },
     {
         "country": "Kenya",
         "city": "Maasai Mara",
-        "interests": ["safari", "wildlife", "nature", "photography", "adventure"]
+        "interests": ["wildlife", "adventure", "nature", "photography"]
     },
     {
         "country": "Kenya",
         "city": "Lamu",
-        "interests": ["history", "culture", "beaches", "architecture", "relaxation"]
+        "interests": ["history", "culture", "beaches", "architecture"]
     },
-    
     {
         "country": "Tanzania",
         "city": "Dar es Salaam",
-        "interests": ["urban exploration", "beaches", "food", "culture", "street food"]
+        "interests": ["modern-cities", "beaches", "food", "culture"]
     },
     {
         "country": "Tanzania",
         "city": "Arusha",
-        "interests": ["safari", "wildlife", "adventure", "nature", "mountains"]
+        "interests": ["wildlife", "adventure", "nature", "mountains"]
     },
     {
         "country": "Tanzania",
         "city": "Zanzibar City",
-        "interests": ["beaches", "islands", "culture", "history", "relaxation"]
+        "interests": ["beaches", "islands", "culture", "history"]
     },
     {
         "country": "Tanzania",
         "city": "Moshi",
-        "interests": ["mountains", "hiking", "adventure", "nature", "photography"]
+        "interests": ["mountains", "hiking", "adventure", "nature"]
     },
     {
         "country": "Tanzania",
         "city": "Mwanza",
-        "interests": ["lakes", "nature", "eco travel", "relaxation", "photography"]
+        "interests": ["lakes", "nature", "relaxing"]
     },
-    
     {
         "country": "Morocco",
         "city": "Marrakech",
-        "interests": ["culture", "history", "markets", "street food", "architecture"]
+        "interests": ["culture", "history", "markets", "food", "architecture"]
     },
     {
         "country": "Morocco",
         "city": "Casablanca",
-        "interests": ["modern cities", "urban exploration", "food", "architecture", "luxury travel"]
+        "interests": ["modern-cities", "architecture", "food", "luxury travel"]
     },
     {
         "country": "Morocco",
         "city": "Fez",
-        "interests": ["history", "culture", "UNESCO sites", "architecture", "spirituality"]
+        "interests": ["history", "culture", "architecture", "spirituality"]
     },
     {
         "country": "Morocco",
         "city": "Chefchaouen",
-        "interests": ["photography", "nature", "mountains", "hidden gems", "relaxation"]
+        "interests": ["photography", "nature", "mountains", "relaxing"]
     },
     {
         "country": "Morocco",
         "city": "Essaouira",
-        "interests": ["beaches", "wind sports", "relaxation", "culture", "music"]
+        "interests": ["beaches", "relaxing", "culture", "music"]
     },
-    
     {
         "country": "Egypt",
         "city": "Cairo",
-        "interests": ["history", "museums", "architecture", "culture", "urban exploration"]
+        "interests": ["history", "museums", "architecture", "culture"]
     },
     {
         "country": "Egypt",
         "city": "Alexandria",
-        "interests": ["beaches", "history", "culture", "architecture", "relaxation"]
+        "interests": ["beaches", "history", "culture", "relaxing"]
     },
     {
         "country": "Egypt",
         "city": "Luxor",
-        "interests": ["history", "UNESCO sites", "culture", "photography", "spirituality"]
+        "interests": ["history", "culture", "photography", "spirituality"]
     },
     {
         "country": "Egypt",
         "city": "Aswan",
-        "interests": ["relaxation", "culture", "history", "river experiences", "nature"]
+        "interests": ["relaxing", "culture", "history"]
     },
     {
         "country": "Egypt",
         "city": "Sharm El Sheikh",
-        "interests": ["diving", "snorkeling", "beaches", "water sports", "relaxation"]
+        "interests": ["diving", "snorkeling", "beaches", "relaxing"]
     },
-    
     {
         "country": "Nigeria",
         "city": "Lagos",
-        "interests": ["urban exploration", "nightlife", "music", "food", "street food"]
+        "interests": ["modern-cities", "nightlife", "music", "food"]
     },
     {
         "country": "Nigeria",
         "city": "Abuja",
-        "interests": ["modern cities", "architecture", "culture", "museums", "relaxation"]
+        "interests": ["modern-cities", "architecture", "culture", "museums"]
     },
     {
         "country": "Nigeria",
         "city": "Ibadan",
-        "interests": ["culture", "history", "markets", "food", "urban exploration"]
+        "interests": ["culture", "history", "food"]
     },
     {
         "country": "Nigeria",
         "city": "Port Harcourt",
-        "interests": ["music", "nightlife", "food", "urban exploration", "culture"]
+        "interests": ["music", "nightlife", "food", "culture"]
     },
     {
         "country": "Nigeria",
         "city": "Calabar",
-        "interests": ["festivals", "culture", "nature", "relaxation", "food"]
+        "interests": ["festivals", "culture", "nature", "food"]
     },
-    
     {
         "country": "Ghana",
         "city": "Accra",
-        "interests": ["urban exploration", "culture", "nightlife", "food", "street food"]
+        "interests": ["modern-cities", "culture", "nightlife", "food"]
     },
     {
         "country": "Ghana",
         "city": "Kumasi",
-        "interests": ["history", "culture", "markets", "architecture", "local experiences"]
+        "interests": ["culture", "history", "architecture"]
     },
     {
         "country": "Ghana",
         "city": "Cape Coast",
-        "interests": ["history", "UNESCO sites", "culture", "beaches", "education tourism"]
+        "interests": ["history", "culture", "beaches"]
     },
     {
         "country": "Ghana",
         "city": "Tamale",
-        "interests": ["culture", "nature", "eco travel", "local experiences", "adventure"]
+        "interests": ["culture", "nature", "adventure"]
     },
     {
         "country": "Ghana",
         "city": "Takoradi",
-        "interests": ["beaches", "relaxation", "culture", "food", "scenic drives"]
+        "interests": ["beaches", "relaxing", "culture"]
     },
-    
     {
         "country": "Ethiopia",
         "city": "Addis Ababa",
-        "interests": ["culture", "history", "museums", "food", "urban exploration"]
+        "interests": ["culture", "history", "museums", "food"]
     },
     {
         "country": "Ethiopia",
         "city": "Lalibela",
-        "interests": ["religion", "spirituality", "UNESCO sites", "history", "culture"]
+        "interests": ["history", "culture"]
     },
     {
         "country": "Ethiopia",
         "city": "Bahir Dar",
-        "interests": ["nature", "lakes", "relaxation", "photography", "eco travel"]
+        "interests": ["nature", "relaxing", "photography"]
     },
     {
         "country": "Ethiopia",
         "city": "Gondar",
-        "interests": ["history", "architecture", "culture", "UNESCO sites", "photography"]
+        "interests": ["history", "architecture", "culture"]
     },
     {
         "country": "Ethiopia",
         "city": "Hawassa",
-        "interests": ["lakes", "relaxation", "nature", "eco travel", "photography"]
+        "interests": ["nature", "relaxing", "photography"]
     },
     {
         "country": "Tunisia",
         "city": "Tunis",
-        "interests": ["culture", "history", "architecture", "museums", "food", "urban exploration"]
+        "interests": ["culture", "history", "architecture", "museums", "food"]
     },
     {
         "country": "Tunisia",
         "city": "Sousse",
-        "interests": ["beaches", "culture", "history", "relaxation", "water sports", "nightlife"]
+        "interests": ["beaches", "culture", "history", "relaxing", "nightlife"]
     },
     {
         "country": "Tunisia",
         "city": "Sfax",
-        "interests": ["history", "culture", "local experiences", "urban exploration", "food"]
+        "interests": ["history", "culture", "food"]
     },
     {
         "country": "Tunisia",
         "city": "Djerba",
-        "interests": ["beaches", "islands", "relaxation", "culture", "photography"]
+        "interests": ["beaches", "islands", "relaxing", "culture"]
     },
     {
         "country": "Tunisia",
         "city": "Hammamet",
-        "interests": ["beaches", "relaxation", "nightlife", "water sports", "luxury travel"]
+        "interests": ["beaches", "relaxing", "nightlife", "luxury travel"]
     },
-    
     {
         "country": "Algeria",
         "city": "Algiers",
-        "interests": ["history", "architecture", "culture", "museums", "urban exploration"]
+        "interests": ["history", "architecture", "culture", "museums"]
     },
     {
         "country": "Algeria",
         "city": "Oran",
-        "interests": ["music", "nightlife", "culture", "food", "urban exploration"]
+        "interests": ["music", "nightlife", "culture", "food"]
     },
     {
         "country": "Algeria",
         "city": "Constantine",
-        "interests": ["architecture", "history", "photography", "culture", "urban exploration"]
+        "interests": ["architecture", "history", "culture"]
     },
     {
         "country": "Algeria",
         "city": "Annaba",
-        "interests": ["beaches", "relaxation", "history", "culture", "water sports"]
+        "interests": ["beaches", "relaxing", "history", "culture"]
     },
     {
         "country": "Algeria",
         "city": "Ghardaïa",
-        "interests": ["desert landscapes", "culture", "history", "off the beaten path", "architecture"]
+        "interests": ["desert", "culture", "history", "architecture"]
     },
-    
     {
         "country": "Australia",
         "city": "Sydney",
-        "interests": ["urban exploration", "beaches", "architecture", "nightlife", "food", "water sports"]
+        "interests": ["modern-cities", "beaches", "architecture", "nightlife", "food"]
     },
     {
         "country": "Australia",
         "city": "Melbourne",
-        "interests": ["art", "culture", "food", "coffee", "music", "urban exploration"]
+        "interests": ["art", "culture", "food", "music"]
     },
     {
         "country": "Australia",
         "city": "Brisbane",
-        "interests": ["beaches", "nature", "relaxation", "water sports", "road trips"]
+        "interests": ["beaches", "nature", "relaxing", "water sports"]
     },
     {
         "country": "Australia",
         "city": "Hobart",
-        "interests": ["nature", "wildlife", "photography", "relaxation", "off the beaten path"]
+        "interests": ["nature", "wildlife", "photography"]
     },
     {
         "country": "Australia",
         "city": "Cairns",
-        "interests": ["diving", "snorkeling", "beaches", "nature", "wildlife", "water sports"]
+        "interests": ["diving", "snorkeling", "beaches", "nature", "wildlife"]
     },
-    
     {
         "country": "New Zealand",
         "city": "Auckland",
-        "interests": ["urban exploration", "nature", "water sports", "food", "nightlife"]
+        "interests": ["modern-cities", "nature", "food", "nightlife"]
     },
     {
         "country": "New Zealand",
         "city": "Wellington",
-        "interests": ["culture", "art", "museums", "food", "urban exploration"]
+        "interests": ["culture", "art", "museums", "food"]
     },
     {
         "country": "New Zealand",
         "city": "Queenstown",
-        "interests": ["adventure", "hiking", "skiing", "nature", "mountains", "water sports"]
+        "interests": ["adventure", "hiking", "skiing", "nature", "mountains"]
     },
     {
         "country": "New Zealand",
         "city": "Rotorua",
-        "interests": ["hot springs", "wellness", "nature", "culture", "eco travel"]
+        "interests": ["hot-springs", "wellness", "nature", "culture"]
     },
     {
         "country": "New Zealand",
         "city": "Dunedin",
-        "interests": ["history", "architecture", "wildlife", "nature", "photography"]
+        "interests": ["history", "architecture", "wildlife", "nature"]
     },
-    
     {
         "country": "Turkey",
         "city": "Istanbul",
-        "interests": ["history", "culture", "architecture", "food", "shopping", "urban exploration"]
+        "interests": ["history", "culture", "architecture", "food", "shopping"]
     },
     {
         "country": "Turkey",
         "city": "Ankara",
-        "interests": ["history", "museums", "culture", "architecture", "urban exploration"]
+        "interests": ["history", "museums", "culture", "architecture"]
     },
     {
         "country": "Turkey",
         "city": "Cappadocia",
-        "interests": ["adventure", "hot air ballooning", "photography", "nature", "off the beaten path"]
+        "interests": ["adventure", "photography", "nature"]
     },
     {
         "country": "Turkey",
         "city": "Izmir",
-        "interests": ["beaches", "culture", "food", "relaxation", "water sports"]
+        "interests": ["beaches", "culture", "food", "relaxing"]
     },
     {
         "country": "Turkey",
         "city": "Antalya",
-        "interests": ["beaches", "resorts", "relaxation", "water sports", "luxury travel"]
+        "interests": ["beaches", "relaxing", "luxury travel"]
     },
-    
     {
         "country": "Greece",
         "city": "Athens",
-        "interests": ["history", "architecture", "culture", "museums", "urban exploration"]
+        "interests": ["history", "architecture", "culture", "museums"]
     },
     {
         "country": "Greece",
         "city": "Thessaloniki",
-        "interests": ["culture", "food", "nightlife", "history", "urban exploration"]
+        "interests": ["culture", "food", "nightlife", "history"]
     },
     {
         "country": "Greece",
         "city": "Santorini",
-        "interests": ["islands", "romantic getaways", "luxury travel", "photography", "relaxation"]
+        "interests": ["islands", "romantic getaways", "luxury travel", "relaxing"]
     },
     {
         "country": "Greece",
         "city": "Mykonos",
-        "interests": ["nightlife", "beaches", "islands", "luxury travel", "water sports"]
+        "interests": ["nightlife", "beaches", "islands", "luxury travel"]
     },
     {
         "country": "Greece",
         "city": "Crete",
         "interests": ["beaches", "hiking", "history", "nature", "food"]
     },
-    
     {
         "country": "Portugal",
         "city": "Lisbon",
-        "interests": ["culture", "history", "architecture", "food", "nightlife", "urban exploration"]
+        "interests": ["culture", "history", "architecture", "food", "nightlife"]
     },
     {
         "country": "Portugal",
         "city": "Porto",
-        "interests": ["food", "culture", "history", "architecture", "relaxation"]
+        "interests": ["food", "culture", "history", "relaxing"]
     },
     {
         "country": "Portugal",
         "city": "Faro",
-        "interests": ["beaches", "relaxation", "water sports", "nature", "islands"]
+        "interests": ["beaches", "relaxing", "nature"]
     },
     {
         "country": "Portugal",
         "city": "Sintra",
-        "interests": ["architecture", "history", "nature", "photography", "romantic getaways"]
+        "interests": ["architecture", "history", "nature", "photography"]
     },
     {
         "country": "Portugal",
         "city": "Madeira",
-        "interests": ["nature", "hiking", "eco travel", "mountains", "photography"]
+        "interests": ["nature", "hiking", "mountains", "photography"]
     },
-    
     {
         "country": "Poland",
         "city": "Warsaw",
-        "interests": ["history", "culture", "museums", "urban exploration", "architecture"]
+        "interests": ["history", "culture", "museums", "urban-exploration", "architecture"]
     },
     {
         "country": "Poland",
@@ -1178,126 +1138,122 @@
     {
         "country": "Poland",
         "city": "Gdańsk",
-        "interests": ["history", "beaches", "culture", "architecture", "photography"]
+        "interests": ["history", "beaches", "culture", "architecture"]
     },
     {
         "country": "Poland",
         "city": "Wrocław",
-        "interests": ["culture", "architecture", "urban exploration", "food", "history"]
+        "interests": ["culture", "architecture", "urban-exploration", "food", "history"]
     },
     {
         "country": "Poland",
         "city": "Zakopane",
-        "interests": ["skiing", "mountains", "hiking", "nature", "snow sports"]
+        "interests": ["skiing", "mountains", "hiking", "nature"]
     },
     {
         "country": "Czech Republic",
         "city": "Prague",
-        "interests": ["history", "culture", "architecture", "museums", "urban exploration", "nightlife"]
+        "interests": ["history", "culture", "architecture", "museums", "urban-exploration", "nightlife"]
     },
     {
         "country": "Czech Republic",
         "city": "Brno",
-        "interests": ["culture", "architecture", "urban exploration", "food", "local experiences"]
+        "interests": ["culture", "architecture", "urban-exploration", "food"]
     },
     {
         "country": "Czech Republic",
         "city": "Český Krumlov",
-        "interests": ["history", "architecture", "photography", "romantic getaways", "culture"]
+        "interests": ["history", "architecture", "photography", "romantic-getaways", "culture"]
     },
     {
         "country": "Czech Republic",
         "city": "Karlovy Vary",
-        "interests": ["relaxation", "spas", "hot springs", "wellness", "luxury travel"]
+        "interests": ["relaxation", "wellness", "hot-springs", "luxury-travel"]
     },
     {
         "country": "Czech Republic",
         "city": "Olomouc",
-        "interests": ["history", "culture", "architecture", "urban exploration", "museums"]
+        "interests": ["history", "culture", "architecture", "museums"]
     },
-    
     {
         "country": "Hungary",
         "city": "Budapest",
-        "interests": ["history", "architecture", "culture", "nightlife", "spas", "food"]
+        "interests": ["history", "architecture", "culture", "nightlife", "wellness", "food"]
     },
     {
         "country": "Hungary",
         "city": "Debrecen",
-        "interests": ["culture", "history", "local experiences", "urban exploration", "festivals"]
+        "interests": ["culture", "history", "festivals"]
     },
     {
         "country": "Hungary",
         "city": "Szeged",
-        "interests": ["culture", "architecture", "food", "festivals", "urban exploration"]
+        "interests": ["culture", "architecture", "food", "festivals"]
     },
     {
         "country": "Hungary",
         "city": "Pécs",
-        "interests": ["history", "culture", "architecture", "museums", "urban exploration"]
+        "interests": ["history", "culture", "architecture", "museums"]
     },
     {
         "country": "Hungary",
         "city": "Eger",
-        "interests": ["history", "architecture", "food", "local experiences", "romantic getaways"]
+        "interests": ["history", "architecture", "food", "romantic-getaways"]
     },
-    
     {
         "country": "Romania",
         "city": "Bucharest",
-        "interests": ["urban exploration", "nightlife", "culture", "architecture", "history"]
+        "interests": ["urban-exploration", "nightlife", "culture", "architecture", "history"]
     },
     {
         "country": "Romania",
         "city": "Cluj-Napoca",
-        "interests": ["culture", "nightlife", "urban exploration", "festivals", "food"]
+        "interests": ["culture", "nightlife", "festivals", "food"]
     },
     {
         "country": "Romania",
         "city": "Brașov",
-        "interests": ["mountains", "history", "architecture", "nature", "photography"]
+        "interests": ["mountains", "history", "architecture", "nature"]
     },
     {
         "country": "Romania",
         "city": "Sibiu",
-        "interests": ["history", "architecture", "culture", "urban exploration", "photography"]
+        "interests": ["history", "architecture", "culture"]
     },
     {
         "country": "Romania",
         "city": "Sighișoara",
-        "interests": ["history", "architecture", "culture", "photography", "off the beaten path"]
+        "interests": ["history", "architecture", "culture", "photography"]
     },
-    
     {
         "country": "Croatia",
         "city": "Zagreb",
-        "interests": ["culture", "history", "architecture", "museums", "urban exploration"]
+        "interests": ["culture", "history", "architecture", "museums", "urban-exploration"]
     },
     {
         "country": "Croatia",
         "city": "Dubrovnik",
-        "interests": ["history", "architecture", "beaches", "photography", "romantic getaways"]
+        "interests": ["history", "architecture", "beaches", "photography", "romantic-getaways"]
     },
     {
         "country": "Croatia",
         "city": "Split",
-        "interests": ["beaches", "history", "architecture", "water sports", "islands"]
+        "interests": ["beaches", "history", "architecture", "water-sports", "islands"]
     },
     {
         "country": "Croatia",
         "city": "Zadar",
-        "interests": ["beaches", "culture", "history", "relaxation", "photography"]
+        "interests": ["beaches", "culture", "history", "relaxation"]
     },
     {
         "country": "Croatia",
         "city": "Rovinj",
-        "interests": ["beaches", "romantic getaways", "photography", "relaxation", "culture"]
+        "interests": ["beaches", "romantic-getaways", "photography", "relaxation"]
     },
-    
     {
         "country": "Japan",
         "city": "Tokyo",
-        "interests": ["modern cities", "shopping", "food", "nightlife", "urban exploration"]
+        "interests": ["modern-cities", "shopping", "food", "nightlife", "urban-exploration"]
     },
     {
         "country": "Japan",
@@ -1307,23 +1263,22 @@
     {
         "country": "Japan",
         "city": "Osaka",
-        "interests": ["food", "nightlife", "urban exploration", "modern cities", "shopping"]
+        "interests": ["food", "nightlife", "urban-exploration", "modern-cities", "shopping"]
     },
     {
         "country": "Japan",
         "city": "Nara",
-        "interests": ["history", "culture", "spirituality", "nature", "architecture"]
+        "interests": ["history", "culture", "spirituality", "nature"]
     },
     {
         "country": "Japan",
         "city": "Hakone",
-        "interests": ["hot springs", "relaxation", "nature", "mountains", "luxury travel"]
+        "interests": ["hot-springs", "relaxation", "nature", "mountains", "luxury-travel"]
     },
-    
     {
         "country": "Nepal",
         "city": "Kathmandu",
-        "interests": ["culture", "history", "spirituality", "architecture", "local experiences"]
+        "interests": ["culture", "history", "spirituality", "architecture"]
     },
     {
         "country": "Nepal",
@@ -1333,23 +1288,22 @@
     {
         "country": "Nepal",
         "city": "Lumbini",
-        "interests": ["spirituality", "culture", "history", "religion", "relaxation"]
+        "interests": ["spirituality", "culture", "religion", "history"]
     },
     {
         "country": "Nepal",
         "city": "Bhaktapur",
-        "interests": ["history", "architecture", "culture", "photography", "urban exploration"]
+        "interests": ["history", "architecture", "culture", "photography"]
     },
     {
         "country": "Nepal",
         "city": "Chitwan",
-        "interests": ["wildlife", "safari", "nature", "eco travel", "adventure"]
+        "interests": ["wildlife", "safari", "nature", "eco-travel", "adventure"]
     },
-    
     {
         "country": "Sri Lanka",
         "city": "Colombo",
-        "interests": ["urban exploration", "culture", "food", "shopping", "nightlife"]
+        "interests": ["urban-exploration", "culture", "food", "shopping", "nightlife"]
     },
     {
         "country": "Sri Lanka",
@@ -1359,198 +1313,194 @@
     {
         "country": "Sri Lanka",
         "city": "Galle",
-        "interests": ["history", "architecture", "beaches", "photography", "culture"]
+        "interests": ["history", "architecture", "beaches", "culture"]
     },
     {
         "country": "Sri Lanka",
         "city": "Sigiriya",
-        "interests": ["history", "nature", "photography", "adventure", "culture"]
+        "interests": ["history", "nature", "photography", "adventure"]
     },
     {
         "country": "Sri Lanka",
         "city": "Ella",
-        "interests": ["nature", "hiking", "mountains", "train journeys", "photography"]
+        "interests": ["nature", "hiking", "mountains", "photography"]
     },
-    
     {
         "country": "Bangladesh",
         "city": "Dhaka",
-        "interests": ["urban exploration", "culture", "food", "shopping", "local experiences"]
+        "interests": ["urban-exploration", "culture", "food", "shopping"]
     },
     {
         "country": "Bangladesh",
         "city": "Chittagong",
-        "interests": ["beaches", "nature", "water sports", "local experiences", "culture"]
+        "interests": ["beaches", "nature", "water-sports", "culture"]
     },
     {
         "country": "Bangladesh",
         "city": "Sylhet",
-        "interests": ["nature", "hiking", "tea plantations", "eco travel", "relaxation"]
+        "interests": ["nature", "hiking", "eco-travel", "tea-plantations"]
     },
     {
         "country": "Bangladesh",
         "city": "Cox’s Bazar",
-        "interests": ["beaches", "relaxation", "water sports", "nature", "photography"]
+        "interests": ["beaches", "relaxation", "water-sports", "nature"]
     },
     {
         "country": "Bangladesh",
         "city": "Rajshahi",
-        "interests": ["history", "culture", "architecture", "museums", "urban exploration"]
+        "interests": ["history", "culture", "architecture", "museums"]
     },
-    
     {
         "country": "Maldives",
         "city": "Malé",
-        "interests": ["islands", "luxury travel", "beaches", "relaxation", "water sports"]
+        "interests": ["islands", "luxury-travel", "beaches", "relaxation", "water-sports"]
     },
     {
         "country": "Maldives",
         "city": "Maafushi",
-        "interests": ["islands", "budget travel", "beaches", "snorkeling", "diving"]
+        "interests": ["islands", "budget-travel", "beaches", "diving"]
     },
     {
         "country": "Maldives",
         "city": "Addu City",
-        "interests": ["islands", "beaches", "diving", "snorkeling", "relaxation"]
+        "interests": ["islands", "beaches", "diving", "snorkeling"]
     },
     {
         "country": "Maldives",
         "city": "Hulhumalé",
-        "interests": ["beaches", "relaxation", "water sports", "islands", "luxury travel"]
+        "interests": ["beaches", "relaxation", "water-sports", "islands"]
     },
     {
         "country": "Maldives",
         "city": "Fuvahmulah",
-        "interests": ["diving", "wildlife", "beaches", "snorkeling", "off the beaten path"]
+        "interests": ["diving", "wildlife", "beaches", "off-the-beaten-path"]
     },
-    
     {
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "city": "Dubai",
-        "interests": ["luxury travel", "shopping", "modern cities", "architecture", "nightlife"]
+        "interests": ["luxury-travel", "shopping", "modern-cities", "architecture", "nightlife"]
     },
     {
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "city": "Abu Dhabi",
-        "interests": ["luxury travel", "culture", "architecture", "religion", "museums"]
+        "interests": ["luxury-travel", "culture", "architecture", "religion", "museums"]
     },
     {
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "city": "Sharjah",
-        "interests": ["culture", "museums", "history", "architecture", "local experiences"]
+        "interests": ["culture", "museums", "history", "architecture"]
     },
     {
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "city": "Ras Al Khaimah",
-        "interests": ["mountains", "nature", "luxury travel", "adventure", "relaxation"]
+        "interests": ["mountains", "nature", "luxury-travel", "adventure", "relaxation"]
     },
     {
-        "country": "United Arab Emirates",
+        "country": "UAE",
         "city": "Al Ain",
-        "interests": ["desert landscapes", "nature", "culture", "history", "relaxation"]
+        "interests": ["desert", "nature", "culture", "history"]
     },
-    
     {
         "country": "Saudi Arabia",
         "city": "Riyadh",
-        "interests": ["modern cities", "culture", "architecture", "shopping", "urban exploration"]
+        "interests": ["urban-cities", "culture", "architecture", "shopping"]
     },
     {
         "country": "Saudi Arabia",
         "city": "Jeddah",
-        "interests": ["beaches", "culture", "history", "food", "water sports"]
+        "interests": ["beaches", "culture", "history", "food"]
     },
     {
         "country": "Saudi Arabia",
         "city": "Mecca",
-        "interests": ["religion", "spirituality", "culture", "history", "local experiences"]
+        "interests": ["religion", "spirituality", "culture", "history"]
     },
     {
         "country": "Saudi Arabia",
         "city": "Medina",
-        "interests": ["religion", "spirituality", "culture", "history", "relaxation"]
+        "interests": ["religion", "spirituality", "culture", "relaxation"]
     },
     {
         "country": "Saudi Arabia",
         "city": "AlUla",
-        "interests": ["history", "desert landscapes", "photography", "adventure", "off the beaten path"]
+        "interests": ["history", "desert", "photography", "adventure"]
     },
     
     {
         "country": "Jordan",
         "city": "Amman",
-        "interests": ["history", "culture", "urban exploration", "food", "architecture"]
+        "interests": ["history", "culture", "urban-cities", "food", "architecture"]
     },
     {
         "country": "Jordan",
         "city": "Petra",
-        "interests": ["history", "architecture", "adventure", "photography", "culture"]
+        "interests": ["history", "architecture", "adventure", "photography"]
     },
     {
         "country": "Jordan",
         "city": "Aqaba",
-        "interests": ["beaches", "diving", "snorkeling", "water sports", "relaxation"]
+        "interests": ["beaches", "diving", "water-sports", "relaxation"]
     },
     {
         "country": "Jordan",
         "city": "Wadi Rum",
-        "interests": ["desert landscapes", "adventure", "off the beaten path", "photography", "camping"]
+        "interests": ["desert", "adventure", "off-the-beaten-path", "photography", "camping"]
     },
     {
         "country": "Jordan",
         "city": "Jerash",
-        "interests": ["history", "architecture", "culture", "museums", "urban exploration"]
+        "interests": ["history", "architecture", "culture", "museums"]
     },
     
     {
         "country": "Uzbekistan",
         "city": "Tashkent",
-        "interests": ["culture", "history", "architecture", "urban exploration", "museums"]
+        "interests": ["culture", "history", "architecture", "urban-cities", "museums"]
     },
     {
         "country": "Uzbekistan",
         "city": "Samarkand",
-        "interests": ["history", "architecture", "culture", "UNESCO sites", "photography"]
+        "interests": ["history", "architecture", "culture", "UNESCO-sites", "photography"]
     },
     {
         "country": "Uzbekistan",
         "city": "Bukhara",
-        "interests": ["history", "architecture", "culture", "UNESCO sites", "local experiences"]
+        "interests": ["history", "architecture", "culture", "UNESCO-sites"]
     },
     {
         "country": "Uzbekistan",
         "city": "Khiva",
-        "interests": ["history", "architecture", "UNESCO sites", "photography", "off the beaten path"]
+        "interests": ["history", "architecture", "UNESCO-sites", "photography"]
     },
     {
         "country": "Uzbekistan",
         "city": "Nukus",
-        "interests": ["culture", "museums", "off the beaten path", "history", "urban exploration"]
+        "interests": ["culture", "museums", "history", "urban-cities"]
     },
     
     {
         "country": "Kazakhstan",
         "city": "Almaty",
-        "interests": ["mountains", "nature", "hiking", "skiing", "urban exploration"]
+        "interests": ["mountains", "nature", "hiking", "skiing", "urban-cities"]
     },
     {
         "country": "Kazakhstan",
         "city": "Astana",
-        "interests": ["modern cities", "architecture", "urban exploration", "culture", "shopping"]
+        "interests": ["urban-cities", "architecture", "culture", "shopping"]
     },
     {
         "country": "Kazakhstan",
         "city": "Shymkent",
-        "interests": ["culture", "food", "local experiences", "urban exploration", "history"]
+        "interests": ["culture", "food", "history", "urban-cities"]
     },
     {
         "country": "Kazakhstan",
         "city": "Aktau",
-        "interests": ["beaches", "desert landscapes", "water sports", "nature", "off the beaten path"]
+        "interests": ["beaches", "desert", "water-sports", "nature"]
     },
     {
         "country": "Kazakhstan",
         "city": "Turkistan",
-        "interests": ["history", "religion", "culture", "architecture", "UNESCO sites"]
+        "interests": ["history", "religion", "culture", "architecture", "UNESCO-sites"]
     }
 ]

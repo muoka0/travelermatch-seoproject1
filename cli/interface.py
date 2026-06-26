@@ -21,10 +21,10 @@ def run_interface():
     session = SessionLocal()
 
     climates = get_unique_climates(session)
-    climate_options = list(set(climates))[:5]
+    climate_options = list(set(climates))[:10]
 
     interests = get_all_interests(session)
-    interest_options = [i.interest for i in interests][:5]
+    interest_options = [i.interest for i in interests][:10]
 
     budget = input("Select Your Desired Budget ($, $$, $$$): ").strip()
     start_date = input("Select Trip Start date (YYYY-MM-DD): ").strip()
