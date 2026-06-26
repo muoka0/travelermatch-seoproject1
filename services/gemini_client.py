@@ -2,7 +2,7 @@ import os
 import json
 from google import genai
 from google.genai import types
-from prompts import INTEREST_MAPPING_PROMPT, RANKING_PROMPT
+from utils.prompts import INTEREST_MAPPING_PROMPT, RANKING_PROMPT
 
 try: 
     api_key = os.environ.get("GENAI_API_KEY")
